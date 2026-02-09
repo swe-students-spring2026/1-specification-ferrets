@@ -10,6 +10,8 @@ A little exercise to get started with the specification phase of the software de
 
 [Claire Wu](https://github.com/clairewwwwww)
 
+[Yecheng Yue Eddy](https://github.com/YechengYueEddy)
+
 See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
 
 ## Stakeholders
@@ -54,7 +56,15 @@ Violet Order is The fastest way for NYU students to discover food trucks, see re
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+### User Story 1 (Owner)
+> As a food truck owner, I want to display my menu so students can see what we are offering.
+
+![Student Activity Diagram](images/owner-activity-diagram.png)
+
+### User Story 2 (Student)
+> As a student, I want to see both the number of people in line and the estimated wait time so that I can tell if I have enough time before class.
+
+![Student Activity Diagram](images/student-activity-diagram.png)
 
 ## Clickable Prototype
 
