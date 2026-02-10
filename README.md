@@ -74,4 +74,4 @@ Violet Order is the fastest way for NYU students to discover food trucks, see re
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Link to prototype](https://www.figma.com/proto/hwK3UMYHmqoiKUpKhcNveK/Ferrets---Prototype?node-id=159-1980&t=j29OjTxtzf00ccwI-1)
