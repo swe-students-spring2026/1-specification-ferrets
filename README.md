@@ -69,17 +69,31 @@ Violet Order is the fastest way for NYU students to discover food trucks, see re
 
 ## Activity Diagrams
 
+[Link to Activity Diagrams](https://www.figma.com/board/dvXC8A09j8p3ebJn2di9lP/Assignment-1-UML-Activity-Diagram?node-id=0-1&t=0kzAle2xKESMFVWA-1)
+
 ### User Story 1 (Owner)
 
 > As a food truck owner, I want to display my menu so students can see what we are offering.
 
-![Student Activity Diagram](images/owner-activity-diagram.png)
+![Student Activity Diagram](images/owner-activity-diagram-1.png)
 
-### User Story 2 (Student)
+### User Story 2 (Owner)
 
-> As a student, I want to see both the number of people in line and the estimated wait time so that I can tell if I have enough time before class.
+> As a food truck owner, I want to give perks like discounts or free add-ons for repeat purchases.
 
-![Student Activity Diagram](images/student-activity-diagram.png)
+![Student Activity Diagram](images/owner-activity-diagram-2.png)
+
+### User Story 3 (Student)
+
+> As a student, I want to see the estimated wait time so that I can tell if I have enough time before class.
+
+![Student Activity Diagram](images/student-activity-diagram-1.png)
+
+### User Story 4 (Student)
+
+> As a student, I want to sort by distance so that I can choose the closest option when I'm in a rush.
+
+![Student Activity Diagram](images/student-activity-diagram-2.png)
 
 ## App Map
 
