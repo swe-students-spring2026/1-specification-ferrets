@@ -14,8 +14,6 @@ A little exercise to get started with the specification phase of the software de
 
 [Sanjay Chunduru](https://github.com/Sanjayc0204)
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
-
 ## Stakeholders
 
 Heather (Student):
@@ -45,16 +43,16 @@ Violet Order is the fastest way for NYU students to discover food trucks, see re
 
 ### User Stories (student users)
 
-1. As a student, I want to see both the number of people in line and the estimated wait time so that I can tell if I have enough time before class.
-2. As a student, I want to see which nearby spots are least crowded so that I can avoid traffic.
-3. As a student, I want to see whether a food truck or coffee shop is open right now so that I don’t waste time going to a closed spot.
-4. As a student, I want to sort by the current wait time for food trucks so that I can choose the fastest one.
-5. As a student, I want to see photos of food so that I can decide what I want without only looking at the text.
-6. As a student, I want to see ratings for each food truck or coffee shop so that I can choose a place that is good.
-7. As a student, I want to sort by rating so that I can find the places with high ranking quickly.
-8. As a student, I want to sort by distance so that I can choose the closest option when I’m in a rush.
-9. As a student, I want to filter by price range so that I can find options that fit my budget.
-10. As a student, I want to leave a quick rating after I buy food so that I can help other students decide.
+1. As a student, I want to see the estimated wait time so that I can tell if I have enough time before class.
+2. As a student, I want to sort by the current wait time for food trucks so that I can choose the fastest one.
+3. As a student, I want to see my cart so that I know what food I have added to my cart. 
+4. As a student, I want to sort by rating so that I can find the places with high ranking quickly.
+5. As a student, I want to sort by distance so that I can choose the closest option when I’m in a rush.
+6. As a student, I want to sort by price so that I can find options that fit my budget.
+7. As a student, I want to see photos of food so that I can decide what I want without only looking at the text.
+8. As a student, I want to see my order confirmation page so that I know my order has been placed. 
+9. As a student, I want to see my order history so that I can see what I have ordered. 
+10. As a student, I want there to be a page where I can place my order so that I can purchase my food.
 
 ### User Stories (owner users)
 
