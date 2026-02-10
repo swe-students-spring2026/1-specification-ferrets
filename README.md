@@ -12,6 +12,8 @@ A little exercise to get started with the specification phase of the software de
 
 [Yecheng Yue Eddy](https://github.com/YechengYueEddy)
 
+[Sanjay Chunduru](https://github.com/Sanjayc0204)
+
 See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
 
 ## Stakeholders
@@ -53,6 +55,19 @@ Violet Order is the fastest way for NYU students to discover food trucks, see re
 8. As a student, I want to sort by distance so that I can choose the closest option when I’m in a rush.
 9. As a student, I want to filter by price range so that I can find options that fit my budget.
 10. As a student, I want to leave a quick rating after I buy food so that I can help other students decide.
+
+### User Stories (owner users)
+
+1. As a food truck owner, I want to display my menu so students can see what we are offering
+2. As a food truck owner, I want to edit our menu so I can change dishes and prices as I see fit
+3. As a food truck owner, I want to give perks like discounts or free add-ons for repeat purchases
+4. As a food truck owner, I want to display our hours and current locations so students can find us
+5. As a food truck owner, I want to see the order history broken down by hours, days, and weeks so I can forecast demand better
+6. As a food truck owner, I want to temporarily mark items as sold out o students don’t try to order dishes we’ve run out of.
+7. As a food truck owner I want to receive notifications when new order are placed so I can prepare them without constantly checking the system
+8. As a food truck owner, I want to pause and resume ordering during peak periods so I can manage capacity and wait times
+9. As a food truck owner I want to see our best selling items so I can optimize my menu and pricing
+10. As a food truck owner I want to create limited time specials or daily deals so I can drive traffic during slow periods
 
 ## Activity Diagrams
 
